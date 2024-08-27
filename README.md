@@ -1,6 +1,6 @@
 # Parth's Portfolio
 
-#Project 1: USA HealthCare Analytics | Unlocking Insights in Patient Care & Hospital Performance 🏥
+# Project 1: USA HealthCare Analytics | Unlocking Insights in Patient Care & Hospital Performance 🏥
 
 In this dashboard, we dive deep into healthcare metrics across hospitals in the USA from 2020 to 2024.
 
